@@ -1,0 +1,5 @@
+﻿fid,fairline (Flight Airline),bgate (Boarding gate),btime (BoardingTime 00:00:00-23:59:59),dtime (DepartureTime 00:00:00-23:59:59),duration (estimated hours),route (DepartingCity-ArrivingCity),fdate (Flight Date YYYY-MM-DD),is_depart
+2587,AirQuagmire,G,12:00:00,12:30:00,5:35:00,San Francisco-Honolulu,2022-12-17,TRUE
+2588,CIAACE,F,13:00:00,13:30:00,5:20:00,San Francisco-Miami,2022-12-17,FALSE
+2599,Delta,D,17:15:00,17:45:00,1:30:00,San Francisco-LA,2022-12-19,FALSE
+3672,American,A,10:30:00,11:00:00,3:30:00,San Francisco-Austin,2022-12-19,TRUE
